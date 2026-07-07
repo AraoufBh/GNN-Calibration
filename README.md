@@ -20,12 +20,6 @@ Everything runs **on CPU** with only NumPy / SciPy / scikit-learn / Matplotlib.
 ## Repository layout
 ```
 .
-├── paper/
-│   ├── paper.tex          # two-column paper (compiles with latexmk)
-│   ├── references.bib     # references
-│   ├── figures/           # figures used by the paper
-│   ├── supplementary_proofs.md  # full proofs of all propositions
-│   └── paper.pdf          # pre-compiled PDF
 ├── code/
 │   ├── theory.py          # Thm 1 validation                       -> figures/fig5_*
 │   ├── theory_ext.py      # self-loop GCN + K-class extensions      -> figures/fig6_*
