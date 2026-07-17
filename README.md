@@ -112,11 +112,15 @@ fetches them; please cite the original work if you use them.
 
 ## Citation
 ```bibtex
-@article{calibrationslope2025,
-  title  = {When Does Distribution Shift Break Graph Neural Network Calibration?
-            A Closed-Form Analysis and a Label-Free Remedy},
-  author = {Anonymous},
-  year   = {2025}
+@misc{bahi2026doesdistributionshiftbreak,
+      title={When does distribution shift break graph neural networks calibration?}, 
+      author={Abderaouf Bahi},
+      year={2026},
+      eprint={2607.10804},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2607.10804}, 
+}
 }
 ```
 
